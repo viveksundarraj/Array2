@@ -1,0 +1,8 @@
+Class String1{
+      public static void main (System.in)
+      {
+           System.out.println("String1");
+      }
+
+
+}
